@@ -1,0 +1,22 @@
+body {
+    background: yellow;
+    text-align: center;
+}
+
+#canvas {
+    display: inline-block;
+    text-align: center;
+    background: #fff;
+}
+
+.red {
+    color: red;
+}
+
+.green {
+    color: green;
+}
+
+.blue {
+    color: blue;
+}
